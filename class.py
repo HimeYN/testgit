@@ -4,4 +4,5 @@ class lol():
         self.attr=False
         self.test="test"
         self.age=2
+        self.c="un truc"
         self.isTrue=True
