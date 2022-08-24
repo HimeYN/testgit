@@ -5,5 +5,6 @@ class lol():
         self.test="test"
         self.age=2
         self.c="un truc"
+        self.branch=False
         self.just=85
         self.isTrue=True
